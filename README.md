@@ -1909,4 +1909,10 @@ I a vegades... a vegades ho és."*
 & El Sistema NRO Col·lectiu  
 & Tots els Altres Que Van Ajudar**
 
-escrit per l0g1x & silicium
+escrit per © 2025 l0g1x & silicium. Licensed under CC BY-NC 4.0.
+
+## License
+
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
